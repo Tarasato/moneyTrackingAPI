@@ -1,0 +1,49 @@
+//checkPassAPI
+{
+    "userName": "user1",
+    "userPassword": "123456"
+}
+
+//getAllDataByuserId
+{
+    "userId": 1
+}
+
+//registerAPI
+{
+    "userFullName": "Dev operator",
+    "userBirthDate": "30 กรกฎาคม 2548",
+    "userName": "user1",
+    "userPassword": "123456",
+    "userImage": "img2.jpg"
+}
+
+//insertInOutComeAPI
+{
+    "moneyDetail": "น้ำปั่นพี่ณา 4 แก้ว",
+    "moneyDate": "30 เมษายน 2567",
+    "moneyInOut": "25.00",
+    "moneyType": "2",
+    "userId": 2
+}
+//==================Json To Dart=============================
+{
+    "message": "1",
+    "moneyId": 1,
+    "moneyDetail": "น้ำปั่นพี่ณา 4 แก้ว",
+    "moneyDate": "30 เมษายน 2567",
+    "moneyInOut": "25.00",
+    "moneyType": "2",
+    "userId": 2
+}
+
+{
+    "message": "1",
+    "userId": 2,
+    "userFullName": "Dev operator",
+    "userBirthDate": "30 กรกฎาคม 2548",
+    "userName": "user1",
+    "userPassword": "123456",
+    "userImage": "img2.jpg"
+}
+//==================Json To Dart=============================
